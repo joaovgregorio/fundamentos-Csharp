@@ -1,0 +1,13 @@
+C:\dev\balta.io\fundamentos-do-C#\Concepts\bin\Debug\netcoreapp3.1\Concepts.exe
+C:\dev\balta.io\fundamentos-do-C#\Concepts\bin\Debug\netcoreapp3.1\Concepts.deps.json
+C:\dev\balta.io\fundamentos-do-C#\Concepts\bin\Debug\netcoreapp3.1\Concepts.runtimeconfig.json
+C:\dev\balta.io\fundamentos-do-C#\Concepts\bin\Debug\netcoreapp3.1\Concepts.runtimeconfig.dev.json
+C:\dev\balta.io\fundamentos-do-C#\Concepts\bin\Debug\netcoreapp3.1\Concepts.dll
+C:\dev\balta.io\fundamentos-do-C#\Concepts\bin\Debug\netcoreapp3.1\Concepts.pdb
+C:\dev\balta.io\fundamentos-do-C#\Concepts\obj\Debug\netcoreapp3.1\Concepts.AssemblyInfoInputs.cache
+C:\dev\balta.io\fundamentos-do-C#\Concepts\obj\Debug\netcoreapp3.1\Concepts.AssemblyInfo.cs
+C:\dev\balta.io\fundamentos-do-C#\Concepts\obj\Debug\netcoreapp3.1\Concepts.csproj.CoreCompileInputs.cache
+C:\dev\balta.io\fundamentos-do-C#\Concepts\obj\Debug\netcoreapp3.1\Concepts.dll
+C:\dev\balta.io\fundamentos-do-C#\Concepts\obj\Debug\netcoreapp3.1\Concepts.pdb
+C:\dev\balta.io\fundamentos-do-C#\Concepts\obj\Debug\netcoreapp3.1\Concepts.genruntimeconfig.cache
+C:\dev\balta.io\fundamentos-do-C#\Concepts\obj\Debug\netcoreapp3.1\Concepts.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\dev\balta.io\fundamentos-do-C#\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\dev\balta.io\fundamentos-do-C#\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\dev\balta.io\fundamentos-do-C#\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\dev\balta.io\fundamentos-do-C#\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\dev\balta.io\fundamentos-do-C#\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\dev\balta.io\fundamentos-do-C#\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\dev\balta.io\fundamentos-do-C#\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\dev\balta.io\fundamentos-do-C#\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\dev\balta.io\fundamentos-do-C#\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\dev\balta.io\fundamentos-do-C#\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\dev\balta.io\fundamentos-do-C#\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\dev\balta.io\fundamentos-do-C#\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache

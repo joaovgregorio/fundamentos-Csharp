@@ -1,0 +1,13 @@
+C:\dev\balta.io\fundamentos-do-C#\EditorHTML\bin\Debug\netcoreapp3.1\EditorHTML.exe
+C:\dev\balta.io\fundamentos-do-C#\EditorHTML\bin\Debug\netcoreapp3.1\EditorHTML.deps.json
+C:\dev\balta.io\fundamentos-do-C#\EditorHTML\bin\Debug\netcoreapp3.1\EditorHTML.runtimeconfig.json
+C:\dev\balta.io\fundamentos-do-C#\EditorHTML\bin\Debug\netcoreapp3.1\EditorHTML.runtimeconfig.dev.json
+C:\dev\balta.io\fundamentos-do-C#\EditorHTML\bin\Debug\netcoreapp3.1\EditorHTML.dll
+C:\dev\balta.io\fundamentos-do-C#\EditorHTML\bin\Debug\netcoreapp3.1\EditorHTML.pdb
+C:\dev\balta.io\fundamentos-do-C#\EditorHTML\obj\Debug\netcoreapp3.1\EditorHTML.AssemblyInfoInputs.cache
+C:\dev\balta.io\fundamentos-do-C#\EditorHTML\obj\Debug\netcoreapp3.1\EditorHTML.AssemblyInfo.cs
+C:\dev\balta.io\fundamentos-do-C#\EditorHTML\obj\Debug\netcoreapp3.1\EditorHTML.csproj.CoreCompileInputs.cache
+C:\dev\balta.io\fundamentos-do-C#\EditorHTML\obj\Debug\netcoreapp3.1\EditorHTML.dll
+C:\dev\balta.io\fundamentos-do-C#\EditorHTML\obj\Debug\netcoreapp3.1\EditorHTML.pdb
+C:\dev\balta.io\fundamentos-do-C#\EditorHTML\obj\Debug\netcoreapp3.1\EditorHTML.genruntimeconfig.cache
+C:\dev\balta.io\fundamentos-do-C#\EditorHTML\obj\Debug\netcoreapp3.1\EditorHTML.csprojAssemblyReference.cache

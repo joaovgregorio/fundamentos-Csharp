@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\balta.io\\fundamentos-do-C#\\EditorHTML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3B0994-A771-8F28-0693-40963238A982}|EditorHTML.csproj|c:\\dev\\balta.io\\fundamentos-do-c#\\editorhtml\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE3B0994-A771-8F28-0693-40963238A982}|EditorHTML.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3B0994-A771-8F28-0693-40963238A982}|EditorHTML.csproj|c:\\dev\\balta.io\\fundamentos-do-c#\\editorhtml\\editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE3B0994-A771-8F28-0693-40963238A982}|EditorHTML.csproj|solutionrelative:editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3B0994-A771-8F28-0693-40963238A982}|EditorHTML.csproj|c:\\dev\\balta.io\\fundamentos-do-c#\\editorhtml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE3B0994-A771-8F28-0693-40963238A982}|EditorHTML.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 165,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\balta.io\\fundamentos-do-C#\\EditorHTML\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\dev\\balta.io\\fundamentos-do-C#\\EditorHTML\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T22:58:17.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\dev\\balta.io\\fundamentos-do-C#\\EditorHTML\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\dev\\balta.io\\fundamentos-do-C#\\EditorHTML\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAywAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T23:04:10.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Editor.cs",
+              "DocumentMoniker": "C:\\dev\\balta.io\\fundamentos-do-C#\\EditorHTML\\Editor.cs",
+              "RelativeDocumentMoniker": "Editor.cs",
+              "ToolTip": "C:\\dev\\balta.io\\fundamentos-do-C#\\EditorHTML\\Editor.cs",
+              "RelativeToolTip": "Editor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T00:49:59.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

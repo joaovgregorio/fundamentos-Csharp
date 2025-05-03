@@ -1,0 +1,13 @@
+C:\Users\JOAOV\Documents\balta.io\cursos\fundamentos-do-C#\MeuApp\bin\Debug\netcoreapp3.1\MeuApp.exe
+C:\Users\JOAOV\Documents\balta.io\cursos\fundamentos-do-C#\MeuApp\bin\Debug\netcoreapp3.1\MeuApp.deps.json
+C:\Users\JOAOV\Documents\balta.io\cursos\fundamentos-do-C#\MeuApp\bin\Debug\netcoreapp3.1\MeuApp.runtimeconfig.json
+C:\Users\JOAOV\Documents\balta.io\cursos\fundamentos-do-C#\MeuApp\bin\Debug\netcoreapp3.1\MeuApp.runtimeconfig.dev.json
+C:\Users\JOAOV\Documents\balta.io\cursos\fundamentos-do-C#\MeuApp\bin\Debug\netcoreapp3.1\MeuApp.dll
+C:\Users\JOAOV\Documents\balta.io\cursos\fundamentos-do-C#\MeuApp\bin\Debug\netcoreapp3.1\MeuApp.pdb
+C:\Users\JOAOV\Documents\balta.io\cursos\fundamentos-do-C#\MeuApp\obj\Debug\netcoreapp3.1\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOAOV\Documents\balta.io\cursos\fundamentos-do-C#\MeuApp\obj\Debug\netcoreapp3.1\MeuApp.AssemblyInfoInputs.cache
+C:\Users\JOAOV\Documents\balta.io\cursos\fundamentos-do-C#\MeuApp\obj\Debug\netcoreapp3.1\MeuApp.AssemblyInfo.cs
+C:\Users\JOAOV\Documents\balta.io\cursos\fundamentos-do-C#\MeuApp\obj\Debug\netcoreapp3.1\MeuApp.csproj.CoreCompileInputs.cache
+C:\Users\JOAOV\Documents\balta.io\cursos\fundamentos-do-C#\MeuApp\obj\Debug\netcoreapp3.1\MeuApp.dll
+C:\Users\JOAOV\Documents\balta.io\cursos\fundamentos-do-C#\MeuApp\obj\Debug\netcoreapp3.1\MeuApp.pdb
+C:\Users\JOAOV\Documents\balta.io\cursos\fundamentos-do-C#\MeuApp\obj\Debug\netcoreapp3.1\MeuApp.genruntimeconfig.cache
