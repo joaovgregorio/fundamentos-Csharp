@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 using System.Text;
 
 namespace Concepts
@@ -8,15 +9,13 @@ namespace Concepts
         private static void Main()
         {
             Console.Clear();
-            
-            var texto = new StringBuilder();
 
-            texto.Append("Fazendo um teste simples para validação");
-            texto.Append(" de um texto com StringBuilder");
-            texto.Append(" e não com string normal");
+            Console.WriteLine(DateTime.Now.IsDaylightSavingTime());
+        }
 
-            texto.ToString();
-            Console.WriteLine(texto);
+        static bool IsWeekend(DayOfWeek today)
+        {
+            return today == DayOfWeek.Saturday || today == DayOfWeek.Sunday;
         }
     }
 }
